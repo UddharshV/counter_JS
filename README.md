@@ -15,9 +15,9 @@ Open `index.html` in your browser and click:
 
 ## Project Structure
 COUNTER_JS/
-├── index.html
-├── index.js
-└── style.css
+|-- index.html
+|-- index.js
+|-- style.css
 
 ## How It Works
 - `index.html` defines the counter label and the three buttons.
